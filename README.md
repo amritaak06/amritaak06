@@ -83,7 +83,4 @@ I'm always eager to collaborate on open-source projects, research opportunities,
 </p>
 
 ### 🚀 Thanks for visiting my profile!
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200px">
-</p>
 
