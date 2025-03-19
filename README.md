@@ -1,8 +1,6 @@
-## Hi there 👋  I'm Amritaa Kalanee
+## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I'm Amritaa Kalanee
+ 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</p>
 
 <p align="center">
 I'm a student at PES University with a deep passion for Machine Learning, Computer Science, and innovation. I love solving challenging problems and constantly push myself to learn something new every day—especially in the field of Machine Learning, where I explore everything from deep learning to AI applications.
