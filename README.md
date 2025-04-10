@@ -62,6 +62,7 @@ I'm always eager to collaborate on open-source projects, research opportunities,
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white">
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white">
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8dtIxmH0BdkRuHvp-AqpWata7Dp6rdkogg&s">
 </p>
 
 ### **☁️ Cloud & Databases**
