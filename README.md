@@ -56,14 +56,15 @@ I'm always eager to collaborate on open-source projects, research opportunities,
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB%20Compass-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white">
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/-Jupyter-DA5B0B?style=flat&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white">
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white">
-  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8dtIxmH0BdkRuHvp-AqpWata7Dp6rdkogg&s">
 </p>
+
 
 ### **☁️ Cloud & Databases**
 <p>
