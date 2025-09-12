@@ -26,14 +26,11 @@ I'm always eager to collaborate on open-source projects, research opportunities,
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </p>
 
 ### **🛠️ Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
@@ -45,14 +42,8 @@ I'm always eager to collaborate on open-source projects, research opportunities,
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white">
-  <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/-Notepad++-90E59A?style=flat&logo=notepad%2B%2B&logoColor=black">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB%20Compass-47A248?style=flat&logo=mongodb&logoColor=white">
@@ -80,7 +71,6 @@ I'm always eager to collaborate on open-source projects, research opportunities,
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/-WSL-4D4D4D?style=flat&logo=windows-terminal&logoColor=white">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/-JetBrains%20IDEs-000000?style=flat&logo=jetbrains&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
