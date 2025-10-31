@@ -74,5 +74,10 @@ I'm always eager to collaborate on open-source projects, research opportunities,
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritaak06&show_icons=true&theme=tokyonight" alt="Amritaa's GitHub Stats"/>
+</p>
+
 ### 🚀 Thanks for visiting my profile!
 
