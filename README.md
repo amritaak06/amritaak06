@@ -77,6 +77,8 @@ I'm always eager to collaborate on open-source projects, research opportunities,
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amritaak06&show_icons=true&theme=tokyonight" alt="Amritaa's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amritaak06&show_icons=true&theme=tokyonight" alt="Amritaa's GitHub stats" />
 </p>
 
 ### 🚀 Thanks for visiting my profile!
